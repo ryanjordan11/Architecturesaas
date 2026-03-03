@@ -1,0 +1,7 @@
+{
+  "name": "Deterministic Architecture Builder",
+  "description": "A high-fidelity system design tool following a strict 18-step intake protocol to produce auditable, deterministic architecture specifications.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
